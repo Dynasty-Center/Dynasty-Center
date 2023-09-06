@@ -47,7 +47,7 @@ We take reasonable precautions to protect your personal information from unautho
 
 ## Changes to this Privacy Policy
 
-We reserve the right to update or modify this Privacy Policy from time to time. Any changes will be posted on this page with an updated "Effective Date."
+We reserve the right to update or modify this Privacy Policy from time to time. Any changes will be posted on this page with an updated.
 
 ## Contact Us
 
